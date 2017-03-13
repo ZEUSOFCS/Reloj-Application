@@ -39,7 +39,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    
+    // Change status bar color
+    override var preferredStatusBarStyle: UIStatusBarStyle {
+        return .lightContent
+    }
     
     @IBAction func playButtonDidTouch(_ sender: Any) {
         
@@ -84,10 +87,6 @@ class ViewController: UIViewController {
         
         
     }
-    
-
-    
-    
     
     @IBAction func resetButtonDidTouch(_ sender: Any) {
     

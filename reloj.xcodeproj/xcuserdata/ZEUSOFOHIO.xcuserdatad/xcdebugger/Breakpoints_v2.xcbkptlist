@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "reloj/ViewController.swift"
-            timestampString = "510949236.10801"
+            timestampString = "510954413.415511"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
             landmarkName = "pauseButtonDidTouch(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -245,11 +245,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "reloj/ViewController.swift"
-            timestampString = "510949236.10801"
+            timestampString = "510954413.415511"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
             landmarkName = "pauseButtonDidTouch(_:)"
             landmarkType = "7">
          </BreakpointContent>
